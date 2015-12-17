@@ -5,9 +5,7 @@ import java.util.Comparator;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- * Created by gongming on 15-12-17.
- */
+
 public class MaxProduct {
     public int maxProduct(String[] words)
     {

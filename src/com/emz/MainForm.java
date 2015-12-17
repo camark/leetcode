@@ -6,9 +6,7 @@ import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 import javax.swing.UIManager.LookAndFeelInfo;
 
-/**
- * Created by gongming on 15-12-17.
- */
+
 public class MainForm extends JFrame{
 
     int width=300;

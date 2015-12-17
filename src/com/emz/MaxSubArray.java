@@ -1,8 +1,6 @@
 package com.emz;
 
-/**
- * Created by gongming on 15-12-17.
- */
+
 public class MaxSubArray {
     public int maxSubArray(int[] array){
         int n=array.length;
